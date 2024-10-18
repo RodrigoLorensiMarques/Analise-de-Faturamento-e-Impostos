@@ -3,12 +3,12 @@
 
 
 
-### Funcionalidades
--> Conversão de valores monetários: Converte strings formatadas em valores float.
--> Cálculo de impostos:
--> Imposto Mensal (ISS, PIS e COFINS)
--> Imposto Trimestral (IR e CSLL, com adição conforme a faixa de faturamento)
--> Resultados organizados: Armazena o faturamento, imposto mensal e imposto trimestral para cada mês.
+### Funcionalidades:
+- Conversão de valores monetários: Converte strings formatadas em valores float.
+- Cálculo de impostos:
+- Imposto Mensal (ISS, PIS e COFINS)
+- Imposto Trimestral (IR e CSLL, com adição conforme a faixa de faturamento)
+- Resultados organizados: Armazena o faturamento, imposto mensal e imposto trimestral para cada mês.
 
 
 
